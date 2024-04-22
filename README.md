@@ -8,11 +8,17 @@ Primero que nada actualiza el sistema antes de usar este escript con ```sudo apt
 
 ```
 git clone https://github.com/ZLCube/AutoCinnamon.git
+```
 
+```
 cd AutoCinnamon
+```
 
+```
 chmod +x install.sh
+```
 
+```
 ./install.sh
 ```
 
